@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/SanketMuthal/FAQ-accordion-card-solution)
-- Live Site URL: [Add live site URL here](https://sanketmuthal.github.io/FAQ-accordion-card-solution/)
+- Solution URL: [GitHUb](https://github.com/SanketMuthal/FAQ-accordion-card-solution)
+- Live Site URL: [GitHub Pages](https://sanketmuthal.github.io/FAQ-accordion-card-solution/)
 
 ## My process
 
